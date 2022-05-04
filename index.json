@@ -1,9 +1,9 @@
 [
     {
-        "hash":  "39C6784F6D0B444048553351763D79ABE1B2D624F7B5E53093580AAD38AA739B",
+        "hash":  "F53CCF2C752AAC95E6524189E2F45E17593F9EAF59D0C9E22A395F8BD921753A",
         "url":  "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/main/files/handheld.lua",
         "name":  "handheld.lua",
-        "changeID":  2
+        "changeID":  3
     },
     {
         "hash":  "38C52B2860EC612A4D47FED80541BC24D175EB5828DE8B2DC6E456F597E4045F",
@@ -12,9 +12,9 @@
         "changeID":  2
     },
     {
-        "hash":  "BFE4EA27FA11E8C4F5B6F2272C056DA5DF811C252FF6ABDAF7106AA5BFE80835",
+        "hash":  "1524B56E6B765A4C4420B65588A30DBE8CCA31DD031E4299FAD02952122A77CC",
         "url":  "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/main/files/luacache.lua",
         "name":  "luacache.lua",
-        "changeID":  1
+        "changeID":  2
     }
 ]
