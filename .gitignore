@@ -1,3 +1,5 @@
 *.vfs
 *.vfs.bak
 http/
+dev/
+index.dev.json
