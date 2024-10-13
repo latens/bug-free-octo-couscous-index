@@ -37,12 +37,12 @@
     },
     {
       "hash": "5F63658BDD6B74B41DE8B4FF848BCB28",
-      "changeID": 12,
+      "changeID": 14,
       "name": "miner.lua"
     },
     {
-      "hash": "BC8E49FA792D8E52C2B9F6E5CCC14206",
-      "changeID": 5,
+      "hash": "0E65FED10CEC7C62D866D1DE186124A9",
+      "changeID": 6,
       "name": "allmight.lua"
     }
   ],
