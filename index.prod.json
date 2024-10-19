@@ -21,8 +21,8 @@
       "name": "handheld.lua"
     },
     {
-      "hash": "6555889F41D71DCA7DFDBBBB5A7871D7",
-      "changeID": 10,
+      "hash": "4AC796798D4AA9ACFE9DB00B9064A8A0",
+      "changeID": 11,
       "name": "luacache.lua"
     },
     {
@@ -31,8 +31,8 @@
       "name": "mainframe.lua"
     },
     {
-      "hash": "4DE1ADD533BCB1F80484C8ADE957328B",
-      "changeID": 10,
+      "hash": "A6D9D15633EED02F7B030E785FE19325",
+      "changeID": 11,
       "name": "beacon.lua"
     },
     {
@@ -41,8 +41,8 @@
       "name": "miner.lua"
     },
     {
-      "hash": "FD131206CDA83AC556D266C1E046948A",
-      "changeID": 18,
+      "hash": "93A73FE692F2B95850172E395C9A8205",
+      "changeID": 19,
       "name": "allmight.lua"
     }
   ],
