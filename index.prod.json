@@ -1,8 +1,8 @@
 {
   "files": [
     {
-      "hash": "4BB7A3F65A9F11EB2F710E26E6CCAC8E",
-      "changeID": 12,
+      "hash": "0E47A701E95C017543BF297F080DC5F9",
+      "changeID": 13,
       "name": "handheld.lua"
     },
     {
@@ -16,8 +16,8 @@
       "name": "beacon.lua"
     },
     {
-      "hash": "4889603E11D5F0319976E4E9884F9EAA",
-      "changeID": 30,
+      "hash": "B81B8A3318EC819731B9D6438D571785",
+      "changeID": 31,
       "name": "allmight.lua"
     }
   ],
