@@ -21,9 +21,9 @@
       "name": "allmight.lua"
     },
     {
-      "hash": "6A62D57B9DEFF3F694D1011F386DE1C9",
+      "hash": "E760999B204C3DDB9878FC3B88349879",
       "name": "smelter.lua",
-      "changeID": 1
+      "changeID": 2
     }
   ],
   "baseUrl": "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/refs/heads/main/files/prod/"
