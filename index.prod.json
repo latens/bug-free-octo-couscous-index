@@ -16,14 +16,14 @@
       "name": "beacon.lua"
     },
     {
-      "hash": "932717AD559B6B9BA51046CF944A415D",
-      "changeID": 36,
+      "hash": "309C58807C41FC2CF024445F6FE74160",
+      "changeID": 37,
       "name": "allmight.lua"
     },
     {
-      "hash": "D252BD2526A7980DFA1806D80D9B5368",
+      "hash": "5F012AA734A58C34CEE17F1E7B0F2649",
       "name": "smelter.lua",
-      "changeID": 3
+      "changeID": 4
     }
   ],
   "baseUrl": "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/refs/heads/main/files/prod/"
