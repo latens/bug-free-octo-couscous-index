@@ -1,29 +1,29 @@
 {
   "files": [
     {
-      "hash": "278111D171E1361D0F40CD4EFAE2D2D0",
-      "changeID": 20,
+      "hash": "40CFC7C365B56C4DAAAE9CEED94AF291",
+      "changeID": 21,
       "name": "handheld.lua"
     },
     {
-      "hash": "71F5F5E4FB2C4D08AE1BFC468200E10F",
-      "changeID": 27,
+      "hash": "5230FA0A1185FFE175F5A34766FEE061",
+      "changeID": 28,
       "name": "luacache.lua"
     },
     {
-      "hash": "C6E19A2875629B18E3582827F24852EF",
-      "changeID": 27,
+      "hash": "B778F165525185EA9E9FAE9D607A209D",
+      "changeID": 28,
       "name": "beacon.lua"
     },
     {
-      "hash": "07ACDE300E8FD234C2358A7B491E055D",
-      "changeID": 39,
+      "hash": "326140218DA0E3FC0F61F2DCA057E5A0",
+      "changeID": 40,
       "name": "allmight.lua"
     },
     {
-      "hash": "D3365FC0F8181BA6D5EABAE0E71D0578",
+      "hash": "A8FBEEF4C57D36863902DCC106A5DC80",
       "name": "smelter.lua",
-      "changeID": 6
+      "changeID": 7
     }
   ],
   "baseUrl": "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/refs/heads/main/files/prod/"
