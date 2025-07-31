@@ -1,29 +1,44 @@
 {
   "files": [
     {
-      "hash": "338591BA5AD5C8F23996DDC1C3C68E16",
-      "changeID": 26,
+      "hash": "1DAB74EEEAB5608A93EFD01FF76424A0",
+      "changeID": 27,
       "name": "handheld.lua"
     },
     {
-      "hash": "5AE9A1D9919BBCB67281A77C7908DE0C",
-      "changeID": 30,
+      "hash": "689EC28BBDD167CBA5B2DAC3E1D61C27",
+      "changeID": 31,
       "name": "luacache.lua"
     },
     {
-      "hash": "3441B04DC074A10098832AA8EB37ED49",
-      "changeID": 30,
+      "hash": "CCC67F9A95A70EC8884259DD448FF059",
+      "changeID": 31,
       "name": "beacon.lua"
     },
     {
-      "hash": "F03CCA1C800EE53D0DB3FD62E8B57853",
-      "changeID": 47,
+      "hash": "B89DB4CECC2AC6BCF3705DAA871156E8",
+      "changeID": 48,
       "name": "allmight.lua"
     },
     {
-      "hash": "1133C4CCEAEACD6BDA6E7DE7404A63B9",
+      "hash": "647C989B9CAB64580F104D518DB5E95C",
       "name": "smelter.lua",
-      "changeID": 13
+      "changeID": 14
+    },
+    {
+      "changeID": 1,
+      "hash": "61A5E332809A134DF34CF292AF8BA481",
+      "name": "loader.lua"
+    },
+    {
+      "changeID": 1,
+      "hash": "FA77DC0F93E663BE897F082F3A699776",
+      "name": "demo.lua"
+    },
+    {
+      "changeID": 1,
+      "hash": "BC36C7303132AA4364C0460BAEBA1FE0",
+      "name": "invmanager.lua"
     }
   ],
   "baseUrl": "https://raw.githubusercontent.com/latens/bug-free-octo-couscous-index/refs/heads/main/files/prod/"
